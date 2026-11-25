@@ -15,6 +15,7 @@ LLM 多维度评测平台｜自动评测 + 人工复核
 - JSON：评测标尺、结果存储
 
 ## 目录结构
+```
 val_platform/
 ├── main_eval.py          # 批量评测主脚本（mock 打分）
 ├── streamlit_demo.py     # 可视化大盘 + 人工复核页面
