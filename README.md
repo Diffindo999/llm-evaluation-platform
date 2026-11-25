@@ -24,7 +24,7 @@ val_platform/
 ├── outputs/
 │   └── eval_result.json  # 评测输出结果
 └── README.md
-
+```
 
 ## 快速运行
 1. 创建虚拟环境
